@@ -1,7 +1,7 @@
 /*Etiquetas HTML de la página principal de la Formula 1*/
 @font-face{                     /*Creación de la fuente de la letra de la página principal de la Formula 1*/
     font-family: f1regular;
-    src: url('../../font/fuentesF1/formula1regular.ttf') format('truetype');
+    src: url('fuentesF1/formula1regular.ttf') format('truetype');
 }
 html{                           /*Estilos de la página principal de la Formula 1*/
     font-family: f1regular;
