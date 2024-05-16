@@ -12,7 +12,7 @@ header{                         /*Estilos de la cabecera de la página principal
     height: auto;
 }
 body{
-    background-image: url(../../img/PaginaPrincipal/PP_F1/fondo.jpg);
+    background-image: url(PaginaPrincipal/PP_F1/fondo.jpg);
     background-size: cover;
     color: white;
 }
